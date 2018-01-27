@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+header {
+    background: #000000f8;
+    text-align: center;
+}
+
+.logo {
+    color: rgb(8, 165, 212);
+    font-family: monospace;
+    font-size: 100px;
+}
+
+header input {
+    font-size: 30px;
+    margin: 20px 0px;
+}
+
+.news_list {
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+}
